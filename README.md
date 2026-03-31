@@ -1,7 +1,7 @@
-Description
+Description:
 This is a simple java application to manage warehouse inventry using array list.
 
-Features
+Features:
 Add items
 Remove items
 update quantity
@@ -9,7 +9,7 @@ Search items
 Disply all items
 
 
-How to run 
+How to run: 
 Compile 
 javac Warehouse.java
 Run
